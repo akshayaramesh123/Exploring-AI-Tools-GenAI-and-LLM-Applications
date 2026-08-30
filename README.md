@@ -1,4 +1,9 @@
 # 🚀 Exploring AI Tools, Generative AI & LLM Applications
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+![AI](https://img.shields.io/badge/Artificial-Intelligence-blue)
+![GenAI](https://img.shields.io/badge/Generative-AI-orange)
+![LLMs](https://img.shields.io/badge/LLMs-green)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-blue)
 
 Welcome to my AI learning repository!
 
