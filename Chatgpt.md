@@ -2,35 +2,28 @@
 
 ## What is ChatGPT?
 
-ChatGPT is an AI chatbot developed by OpenAI. It can answer questions, generate text, write code, summarize information, translate languages, and assist with learning.
+ChatGPT is an AI chatbot developed by OpenAI. It is designed to understand and generate human-like text. It can answer questions, write content, generate code, summarize information, and assist with learning.
 
 ## Key Features
 
-- Natural language conversation
+- Natural language understanding
 - Content generation
 - Code generation
-- Text summarization
+- Summarization
 - Translation
 - Brainstorming ideas
-
-## Applications
-
-- Education
-- Software Development
-- Content Writing
-- Customer Support
-- Research
-- Productivity
 
 ## Advantages
 
 - Easy to use
-- Fast responses
+- Saves time
 - Supports multiple languages
-- Helps improve productivity
+- Improves productivity
 
-## Limitations
+## Applications
 
-- Can make mistakes
-- Knowledge may not always be up to date
-- Requires clear prompts for best results
+- Education
+- Programming
+- Content Writing
+- Research
+- Business
